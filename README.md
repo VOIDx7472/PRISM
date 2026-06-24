@@ -7,7 +7,7 @@ PR\SM develops modern AI-powered products that help people create, build, and in
 - streaming responses
 - multi-model switching
 - Ai image Gen
-- Thinking Mde (beta)
+- Thinking Mode (beta)
 -  40 messages per/m
 -  Voice Input
 -  Speak and copy ai answers
@@ -19,11 +19,18 @@ PR\SM develops modern AI-powered products that help people create, build, and in
 visit: https://toncode.pages.dev/
 ## TonAi
 ### features
-- everything same as TonCode but much more Until you think
+- TonAI includes everything in TonCode plus enhanced capabilities, advanced reasoning, and experimental features.
 ### how to use
 visit: https://tonai-e5u.pages.dev
 # About PR\SM
 PR\SM a small company who created TonCode and TonAi for free and unlimited to use
+Creator of:
+- TONCODE
+- TonAI
+
+Free. Fast. Accessible.
+Why choose one AI when you can access multiple models, memory, web search, image generation, and voice features in a single workspace?
+this is why you should use toncode/tonai instead of other ai like chatgpt, gemini or more
 ### community
 discord: https://discord.gg/ja4SNwNCUQ
 official PR\SM docs: https://docs-prism.vercel.app
